@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Svetlana
-- 👀 I work in Data Analytics
+- Glad to see you here!
+- 👀 I work in Data Analytics. 
 - 🌱 Programming Languages I 'speak':
 - Python
 - SQL

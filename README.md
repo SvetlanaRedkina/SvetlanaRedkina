@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @SvetlanaRedkina
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python and SQL.
+- 👋 Hi, I’m Svetlana
+- 👀 I work in Data Analytics
+- 🌱 Programming Languages I 'speak':
+- Python
+- SQL
 - 📫 You can reach me via e-mail: sveta.hq@gmail.com.
 
 <!---

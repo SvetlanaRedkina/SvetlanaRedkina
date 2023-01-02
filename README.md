@@ -2,7 +2,7 @@
 - Glad to see you here! :blush:
 
 
-⭐ I am a Collibra Certified Workflow and Integration Engineer who helps to drive Data Governance in ASSA ABLOY. ⭐
+⭐ I am a Collibra Certified Workflow and Integration Engineer who drives Data Governance in ASSA ABLOY. ⭐
 
 
 

@@ -1,31 +1,28 @@
-- Hi, I’m Svetlana :wave:
-- Glad to see you here! :blush:
+I love building and integrating tools. My responsibilities include but are not limited to owning metadata architecture and implementing relevant tools for various use cases to support ingestion, catalogs, and lineages tailored for both technical and non-technical stakeholders. I have a deep understanding of APIs and integrations' logics, SQL and databases, cloud architecture, object-oriented languages, code managment, and version control. As an Intgeration Engineer, I lead the test-driven development and oversee the production deployment of Collibra Data Intelligence Platform.
 
+My specialties so far include:
 
-⭐ I am a Collibra Certified Workflow and Integration Engineer who drives Data Governance in ASSA ABLOY. ⭐
+Languages: SQL, Python, Java
 
+Frameworks: Spring Boot, Flask, Django
 
+Containers and their orchestration: Kubernetes, Docker
 
-  My specialties so far include:
-  
-  Collibra: Data Catalog, Business Glossary, Technical Lineages, Intgerations, APIs, Workflows, Jobserver, Edge, Collibra Console
-  
-  Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, TensorFlow, Scrapy
-  
-  SQL: Functions, Derived Tables, Regular Expressions, Joins and Union All, Views, Case, Stored Procedures, User-defined Variables, ACID transactions
-  
-  Java Flowable Projects and Groovy Scripts
+Cloud Services: MS Azure
 
-  Machine Learning: 
-  Supervised Learning
+OS: Linux, Windows
 
-  Statistics and Probability: Summary Statistics, Correlation, Regression Analysis, Conditional Probability
+Git. Command Line.
 
-  Data Visualization: MS PowerBI
+APIs.
 
-  Version Control (Git), Command Line
-  
-  CRM: Salesforce
+Microservices.
+
+Collibra: Platform Administration, Data Catalog, Technical Lineages, Workflows, Edge, Collibra Console
+
+BI Tools: Power BI
+
+CRM: Salesforce
 
 
 

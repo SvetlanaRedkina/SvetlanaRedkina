@@ -8,7 +8,9 @@ Frameworks: Spring Boot, Flask, Django
 
 Containers and their orchestration: Kubernetes, Docker
 
-Cloud Services: MS Azure
+Cloud Services: MS Azure, Salesforce
+
+Power Platform
 
 OS: Linux, Windows
 
@@ -19,10 +21,6 @@ APIs.
 Microservices.
 
 Collibra: Platform Administration, Data Catalog, Technical Lineages, Workflows, Edge, Collibra Console
-
-BI Tools: Power BI
-
-CRM: Salesforce
 
 
 
